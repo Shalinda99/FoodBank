@@ -1,0 +1,52 @@
+.wrapper{
+    height: 100vh;
+    background-image: url('Signup.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+
+}
+
+.wrap2{
+    gap: 1.3rem;
+}
+
+h2{
+    text-align: center;
+}
+
+.form-control{
+    background: rgba(176, 170, 170, 0.73);
+    border-radius: 20px;
+    font-family: 'Francois One';
+    font-style: normal;
+    font-weight: bolder;
+    /* identical to box height */
+    letter-spacing: 0.02em;
+    
+}
+.form-control::placeholder {
+    color:#fff;
+  }
+.Signup {
+    width: 450px;
+    padding: 20px;
+    height: min-content;
+   /* height: min-content;
+    border-radius: 5px;
+    color: white;
+    background-color:rgb(215, 216, 218);
+    justify-content: center;
+    align-items: center;*/
+    
+    background: #000000;
+    opacity: 0.7;
+    border-radius: 54px;
+    color: white;
+}
+
+span{
+    align-items: center;  /*not working*/
+}

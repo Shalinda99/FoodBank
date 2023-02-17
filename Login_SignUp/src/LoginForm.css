@@ -1,0 +1,34 @@
+.wrapper{
+    height: 100vh;
+    background-image: url('loginImage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+
+}
+
+
+h2{
+    text-align: center;
+}
+
+
+
+.login {
+    width: 500px;
+    padding: 20px;
+    min-height: 600px;
+   /* height: min-content;
+    border-radius: 5px;
+    color: white;
+    background-color:rgb(215, 216, 218);
+    justify-content: center;
+    align-items: center;*/
+    
+    background: #000000;
+    opacity: 0.7;
+    border-radius: 54px;
+    color: white;
+}
